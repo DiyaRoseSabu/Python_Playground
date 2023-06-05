@@ -1,3 +1,4 @@
+
 print('hello world')
 
 age = 7
@@ -21,6 +22,7 @@ count = 1
 while count <= 5:
     print('count', count)
     count += 1
+
 
 
 

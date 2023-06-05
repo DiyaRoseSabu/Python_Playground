@@ -1,3 +1,4 @@
+
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -56,5 +57,4 @@ my_list.append(20)
 my_list.append(30)
 my_list.append(40)
 
-# Display
 my_list.display()

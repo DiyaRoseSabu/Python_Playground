@@ -1,8 +1,9 @@
+
 # swap 2 nos
 from typing import Any
 
 a = 15
-b =  25
+b = 25
 print("before sawapping ")
 print('a= ', a)
 print('b=', b)
@@ -39,4 +40,6 @@ if is_palindrome(num):
     print(num, "is a palindrome")
 else:
     print(num, "is not a palindrome")
+
+
 
